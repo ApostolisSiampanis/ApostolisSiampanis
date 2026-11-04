@@ -16,7 +16,6 @@ Android, Spring Boot and LLM-powered projects the rest of the time.
 <p align="center">
   <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/SAPUI5%20%2F%20Fiori-0A6ED1?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20BTP%20%2F%20CAP-1B3C6B?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,python,fastapi,ts,angular,react,postgres,firebase,gcp,docker,git" />
@@ -26,12 +25,14 @@ Android, Spring Boot and LLM-powered projects the rest of the time.
 
 Most of my professional work lives in private client repositories, so here is what it covers:
 
-- **Custom Fiori apps (SAPUI5)** for warehouse, production and sales teams, on top of ABAP back-end logic
-  - **MM:** goods receipt confirmation, stock transport orders (outbound & inbound), RMA approvals, inventory counts
-  - **PP:** production staging and reversal, goods issue / goods receipt from production orders, technician dashboards
-  - **SD:** picking lists (incl. PDA apps for truck loading), outbound delivery picking, label scanning & printing, store returns, sales dashboards
-- **SAP BTP / CAP** apps integrating SAP with external systems, such as vendor-invoice creation from third-party JSON data and Greek e-invoicing (myDATA) reconciliation
-- **Reporting:** transportation cost insights and Power BI dashboards on SAP data
+- **Custom SAPUI5 / Fiori apps** for logistics and sales teams, with English & Greek localisation:
+  - picking list reporting and handheld (PDA) picking for truck loading with barcode scanning
+  - outbound delivery picking and stock transport order (STO) delivery management
+  - physical goods receipt confirmation
+  - backorder processing with stock reservation & release
+  - transportation cost insights
+- **ABAP development:** custom programs, reports, interfaces and enhancements, plus extensions of standard Fiori apps
+- **Support:** debugging, performance tuning and troubleshooting of ABAP code and Fiori apps
 
 ## 🚀 Featured Projects
 
