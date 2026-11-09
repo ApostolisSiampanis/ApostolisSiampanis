@@ -25,7 +25,7 @@ Android, Spring Boot and LLM-powered projects the rest of the time.
 
 Most of my professional work lives in private client repositories, so here is what it covers:
 
-- **Custom SAPUI5 / Fiori apps** for logistics and sales teams, with English & Greek localisation:
+- **Custom SAPUI5 / Fiori apps** for logistics and sales teams:
   - picking list reporting and handheld (PDA) picking for truck loading with barcode scanning
   - outbound delivery picking and stock transport order (STO) delivery management
   - physical goods receipt confirmation
