@@ -34,6 +34,12 @@ Most of my professional work lives in private client repositories, so here is wh
 - **ABAP development:** custom programs, reports, interfaces and enhancements, plus extensions of standard Fiori apps
 - **Support:** debugging, performance tuning and troubleshooting of ABAP code and Fiori apps
 
+## 🛠️ Beyond SAP
+
+- 🏠 **Homelab:** self-hosted infrastructure on TrueNAS SCALE with VMs and Docker containers, running Nginx as a reverse proxy, AdGuard Home for network-wide DNS filtering, Immich for photos, Nextcloud for files and a media server, with secure remote access through Tailscale and Cloudflare
+- 🧾 **Internal tools:** small web apps for my own business admin, such as TaxDash for VAT and AADE myDATA reporting, self-hosted on the same homelab
+- 🤖 **AI-assisted engineering:** day-to-day work with AI coding agents for development, infrastructure and automation
+
 ## 🚀 Featured Projects
 
 ### 🧳 AI Travel Planner (MSc thesis)
